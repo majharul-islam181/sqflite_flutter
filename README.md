@@ -196,7 +196,7 @@ Form for creating new notes or editing existing ones.
 - Title and description text fields
 - Save button with validation state
 
-![Add Note](images/9.png)
+![Add Note](images/3.png)
 
 #### Note Detail Page ([lib/page/note_detail_page.dart](lib/page/note_detail_page.dart))
 
@@ -207,7 +207,7 @@ Detailed view of a single note.
 - Edit button (navigates to edit page)
 - Delete button (removes note and returns to home)
 
-![Note Detail](images/10.png)
+![Note Detail](images/5.png)
 
 ### 4. Widgets
 
@@ -340,8 +340,6 @@ ThemeData(
   ),
 )
 ```
-
-![Theme](images/11.png)
 
 ## Database Operations Flow
 
