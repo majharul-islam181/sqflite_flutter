@@ -2,7 +2,6 @@
 
 A beautiful and fully functional Notes application built with Flutter and SQLite for local data persistence. This app demonstrates complete CRUD (Create, Read, Update, Delete) operations with a modern dark-themed UI.
 
-![App Banner](images/1.png)
 
 ## Table of Contents
 
@@ -34,7 +33,6 @@ A beautiful and fully functional Notes application built with Flutter and SQLite
 - **Form Validation**: Input validation for note creation/editing
 - **Responsive Design**: Portrait-only orientation with adaptive layouts
 
-![Features](images/2.png)
 
 ## Screenshots
 
@@ -55,8 +53,6 @@ lib/
 ```
 
 ### Architecture Diagram
-
-![Architecture](images/6.png)
 
 ## Getting Started
 
@@ -137,7 +133,6 @@ sqflite_crud_flutter/
 | `description` | TEXT | NOT NULL | Note content |
 | `time` | TEXT | NOT NULL | Creation timestamp (ISO 8601) |
 
-![Database Schema](images/7.png)
 
 ## Key Components
 
@@ -436,6 +431,4 @@ For questions or feedback, please open an issue on GitHub.
 
 ---
 
-**Made with Flutter and SQLite**
 
-![Footer](images/12.png)
